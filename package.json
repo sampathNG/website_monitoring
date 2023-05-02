@@ -1,0 +1,27 @@
+{
+  "name": "website_monitoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voxglobaltech/website_monitoring.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voxglobaltech/website_monitoring/issues"
+  },
+  "homepage": "https://github.com/voxglobaltech/website_monitoring#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.1",
+    "ping-monitor": "^0.8.0"
+  }
+}
